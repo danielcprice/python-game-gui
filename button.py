@@ -1,5 +1,5 @@
 import pygame
-from simple_gui.gui import get_font
+from const import SCREEN, screen_scale, get_font, button_height, button_width, update_scale, change_screen
 
 get_font()
 
